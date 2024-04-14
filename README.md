@@ -111,21 +111,20 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 ### Array value of X:
-![Screenshot 2024-04-14 131331](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/d960d74c-db8f-45cd-a2fb-42fb046391c2)
-
-
-### Array value of Y:
 ![Screenshot 2024-04-14 131806](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/053e9ac6-179b-447b-a5a7-f2e9df459fd2)
 
-### Exam 1-Score graph:
+### Array value of Y:
+
 ![Screenshot 2024-04-14 131817](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/2b71e34a-55f9-4fb0-9e9c-3e76ade09e20)
+### Exam 1-Score graph:
+
+![Screenshot 2024-04-14 131836](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/fac44219-c277-4bde-bf01-4dbdea0b9d19)
 
 
 ### Sigmoid function graph:
-![Screenshot 2024-04-14 131836](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/fac44219-c277-4bde-bf01-4dbdea0b9d19)
-
-### X_Train_grad value:
 ![Screenshot 2024-04-14 131847](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/8589a85e-957b-41b1-ac0b-293d8934d7b8)
+### X_Train_grad value:
+
 
 
 ### Y_Train_grad value:
