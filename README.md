@@ -20,8 +20,8 @@ Obtain the graph.
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
+Developed by:SRISHANTH J 
+RegisterNumber:  212223240160
 */
 import numpy as np
 import matplotlib.pyplot as plt
@@ -138,13 +138,14 @@ np.mean(predict(res.x,X)==y)
 ![Screenshot 2024-04-14 131926](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/9f90ad12-bdfd-49f4-b8cc-ed0cae4e244f)
 
 ### Decision boundary-gragh for exam score:
-![Screenshot 2024-04-14 131926](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/225c0464-aebf-4774-a67a-06407624741a)
+![Screenshot 2024-04-14 131943](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/f00da078-8c45-4d62-b113-f0215e7e4d9c)
 
 ### Probability value:
-![Screenshot 2024-04-14 131943](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/f00da078-8c45-4d62-b113-f0215e7e4d9c)
+![Screenshot 2024-04-14 131955](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/f5c47d47-10aa-4f0d-a740-92274e7aa64d)
 
 ### Prediction value of mean:
 
+![Screenshot 2024-04-14 132000](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/93ffcd78-5f10-4d68-8bda-d0e4790ba580)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
