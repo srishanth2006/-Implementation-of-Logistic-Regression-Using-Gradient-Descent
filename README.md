@@ -132,7 +132,8 @@ np.mean(predict(res.x,X)==y)
 ![Screenshot 2024-04-14 131913](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/87535761-3b04-47ba-bcde-dce9187ef8aa)
 
 ### Print res.X:
-![Screenshot 2024-04-14 131915](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/f37ab081-cd50-4e01-a95e-252ee14b33dc)
+![Screenshot 2024-04-14 131926](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/9f90ad12-bdfd-49f4-b8cc-ed0cae4e244f)
+
 ### Decision boundary-gragh for exam score:
 ![Screenshot 2024-04-14 131926](https://github.com/srishanth2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150319470/225c0464-aebf-4774-a67a-06407624741a)
 
